@@ -70,5 +70,8 @@ https://user-images.githubusercontent.com/100399374/175886891-7ea5986a-485f-41e9
 
 **Link to Demo Video**
 
-Insomnia Demo
-https://drive.google.com/file/d/1Y9MVzVBKjeiXui0dTNJ2L2uLgAP90aqF/view?usp=sharing
+- Insomnia Demo
+  https://drive.google.com/file/d/1Y9MVzVBKjeiXui0dTNJ2L2uLgAP90aqF/view?usp=sharing
+
+- Terminal Demo
+  https://drive.google.com/file/d/1F1boKzLFa2uneU6ss4nZyu1zEJmAIi7J/view?usp=sharing
